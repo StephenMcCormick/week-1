@@ -1,0 +1,18 @@
+form{
+			border:1px solid red;
+			width:525px;
+			padding:15px;
+			border-radius:1em;
+		}
+			
+		#wrapper{
+			position:relative;
+			margin:auto;
+			width:960px;
+			height:800px;
+			padding:10px;
+		}
+		
+		#boxes{
+			border-radius:5em;
+		}
